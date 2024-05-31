@@ -86,6 +86,12 @@ button:hover {
     padding-bottom: 10px;
     padding-left: 10px;
 }
+
+.amenities .popover ul li {
+    display: flex;
+    gap: 10px;
+}
+
 .popover ul li{
     padding: 4px;
     padding-left: 10px;
